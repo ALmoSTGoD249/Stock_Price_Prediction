@@ -48,7 +48,7 @@ def plot_predictions(y_test_rescaled, predictions):
 
 if __name__ == "__main__":
     # Parameters
-    STOCK_SYMBOL = "ZOMATO.NS"
+    STOCK_SYMBOL = "TCS.NS"
     START_DATE = "2015-01-01"
     END_DATE = "2024-01-01"
     SEQUENCE_LENGTH = 60

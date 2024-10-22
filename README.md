@@ -2,6 +2,10 @@
 
 This project demonstrates how to predict stock prices using Long Short-Term Memory (LSTM) networks with Python. The model is trained on historical stock data to predict future closing prices.
 
+## Disclaimer
+
+This project is only theoritical representation of a concept and might not be accurate majority of the time. Do not make financial decision based on the results of this project. 
+
 ## Features
 - Fetches historical stock data from Yahoo Finance.
 - Normalizes the data using Min-Max Scaling.
